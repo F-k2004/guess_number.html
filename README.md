@@ -6,7 +6,7 @@
   <title>🎲 بازی حدس عدد</title>
   <style>
     body {
-      ont-family: sans-serif;
+      font-family: sans-serif;
       background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
       display: flex;
       flex-direction: column;
